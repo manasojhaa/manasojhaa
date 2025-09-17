@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C76Xd59jC3jY-mRqWrj5ZfzE5o4N0QeV/view?usp=drive_link](https://drive.google.com/file/d/1C76Xd59jC3jY-mRqWrj5ZfzE5o4N0QeV/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/152z2lBIiD9gZwXSKV5hmmpJVOIiU2O9Z/view?usp=drive_link)
 
 - ⚡ Fun fact **I love to innovate things**
 
