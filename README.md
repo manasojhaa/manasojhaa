@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Alzheimer's Disease Detection using ML**
 
-- 📫 How to reach me **manasojha1975@gmail.com**
+- 📫 How to reach me [E-mail]**manasojha1975@gmail.com**
 
 - 🤝 I’m looking for help with **ML**
 
